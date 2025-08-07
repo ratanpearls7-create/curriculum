@@ -8,7 +8,8 @@ category: discussion
 ---
 
 # What is C++?
-
+C++ is a low level Compiled 
+programming language used for general purpose programming and its great for anything due to izs low level hardware control mean person can directly control their hardware and make softwares etc.
 ---
 
 ## Content
